@@ -1,28 +1,14 @@
-- 👋 Hola A tod@s bienvenidos a mi espacio en Github
+# 👋 Hola A tod@s bienvenidos a mi espacio en Github
  I’m @Paulytorres
 
-Soy una apasionada desarrolladora Front End y terapeuta ocupacional con un enfoque único en la experiencia del usuario.
-Mi motivación radica en comprender profundamente las necesidades de las personas y encontrar soluciones efectivas para resolver sus desafíos.
-Combino mi destreza técnica con mi pasión por el arte y la estética para crear interfaces funcionales y visualmente atractivas.
-
-Mi formación como terapeuta ocupacional me ha brindado una profunda empatía y comprensión de las personas, lo que aplico en el diseño de experiencias digitales accesibles y centradas en el usuario.
-Mi objetivo es crear soluciones que no solo sean funcionales, sino que también conecten emocionalmente con quienes las utilizan.
-
-Como amante del diseño, me esfuerzo por lograr la armonía entre la estética y la usabilidad en cada proyecto. 
-Mi habilidad para traducir las necesidades del usuario en diseños atractivos me permite ofrecer experiencias visuales que cautivan y retienen la atención de los usuarios.
-
-Me destaco en la comunicación efectiva y la colaboración dentro de equipos multidisciplinarios. 
-Mi experiencia como terapeuta ocupacional me permite facilitar la comprensión mutua entre los equipos de desarrollo y los usuarios finales, lo que conduce a soluciones más efectivas.
-
-En resumen, soy una profesional apasionada y comprometida que busca marcar la diferencia en el mundo digital. 
-Mi enfoque en la empatía, la usabilidad y el diseño centrado en el usuario me impulsa a crear experiencias significativas y accesibles. 
-Estoy emocionada por cada nuevo proyecto que me permita combinar mi amor por la tecnología y mi deseo de hacer la vida de las personas más fácil y gratificante.
+Soy una apasionada desarrolladora Front End y Terapeuta Ocupacional enfocada en mejorar la experiencia del usuario. Mi combinación única de habilidades técnicas y empatía me impulsa a crear interfaces funcionales y estéticamente atractivas. 
+Mi objetivo es conectar con los usuarios con soluciones accesibles y centradas en sus necesidades. Con mi enfoque en la comunicación efectiva y la colaboración en equipos, busco marcar la diferencia en el mundo digital. Estoy emocionada por cada proyecto que me permita fusionar tecnología, diseño, el bienestar y la accesibilidad de las personas.
 
 - 👀 I’m interested in conectar con las personas, dejar mi huella. 
 - 🌱 I’m currently learning librerias y frameworks
-- 📫 How to reach me 
+- 📫 Me puedes contactar en : https://www.linkedin.com/in/ptorresa/ 
 
- Más sobre mi:
+## Más sobre mi:
 ```
 {
   "name": ["Paulina", "Pau", "Pauly", "Yumi"],
