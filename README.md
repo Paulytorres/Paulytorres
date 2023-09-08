@@ -1,6 +1,5 @@
-# 👋 Hola A tod@s bienvenidos a mi espacio en Github
- I’m @Paulytorres
-
+# 👋 Hola  Soy @Paulytorres
+## Bienvenidos a mi espacio en Github.
 Soy una apasionada desarrolladora Front End y Terapeuta Ocupacional enfocada en mejorar la experiencia del usuario. Mi combinación única de habilidades técnicas y empatía me impulsa a crear interfaces funcionales y estéticamente atractivas. 
 Mi objetivo es conectar con los usuarios con soluciones accesibles y centradas en sus necesidades. Con mi enfoque en la comunicación efectiva y la colaboración en equipos, busco marcar la diferencia en el mundo digital. Estoy emocionada por cada proyecto que me permita fusionar tecnología, diseño, el bienestar y la accesibilidad de las personas.
 
