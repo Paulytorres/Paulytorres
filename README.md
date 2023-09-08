@@ -24,7 +24,7 @@ Estoy emocionada por cada nuevo proyecto que me permita combinar mi amor por la 
 
  Más sobre mi:
 ```
-const Pauly = {
+{
   "name": ["Paulina", "Pau", "Pauly", "Yumi"],
   "generation": ["92", "millennials"],
   "rarity": "normal 👀",
