@@ -11,54 +11,11 @@ Mi objetivo es conectar con los usuarios con soluciones accesibles y centradas e
 ```
 {
   "name": ["Paulina", "Pau", "Pauly", "Yumi"],
-  "generation": ["92", "millennials"],
-  "rarity": "normal 👀",
-  "spawn-chance": "0.99%", // salgo poco //
-  "type": ["Human", "Front-end developer", "occupational therapist", "chiro massage"],
+  "type": [ "Front-end developer", "occupational therapist", "chiro massage"],
   "tools": ["HTML5", "CSS", "JavaScript", "Jest"],
   "currentlyLearning": ["Node.js", "React"],
-  "resistant": ["Calor", "Situaciones límites"],
-  "weaknesses": ["Lily", "frío", "chocolate"],
-  "preferences": [
-    "anime",
-    "series",
-    "libros distópicos",
-    "disney",
-    "halloween",
-    "coca-cola",
-    "té de manzanilla",
-    "bosque",
-    "lluvia",
-    "impresión 3d",
-    "acrílicos",
-    "queso"
-  ],
-  "poema": "En Paz- Amado Nervo",
-  "motto": ["Paso a pasito", "sé honest@ contigo mism@", "si no puedes suéltalo"],
-  "hechos": [
-    "escucho de todo",
-    "soy muy transparente",
-    "a veces la gente solo me habla y yo feliz de escuchar"
-  ],
-  "songs": {
-    "songToStartTheDay": [
-      "Driver's high- L'arc~en~ciel",
-      "Little Numbers-BOYS",
-      "Mr. Brightside - The Killers",
-      "KICK BACK-Kenshi Yonezu"
-    ],
-    "songToEndTheDay": [
-      "Blues a dos mujeres-La Rue Morgue",
-      "Shinshoku- L'arc~en~ciel",
-      "Te- De Saloon"
-    ],
-    "songICan'tResist": [
-      "Break Stuff-Limp Bizkit",
-      "Fuego-Juanes",
-      "Tortuga vacilona-Combo Tortuga",
-      "Haruka Kanata-Asian Kung Fu Generation"
-    ]
-  }
+  "preferences": [  "anime", "series", "disney", "halloween","coca-cola", "té de manzanilla", "bosque", "lluvia", "impresión 3d"],
+
 }
 ```
 <!---
