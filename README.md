@@ -5,7 +5,9 @@ Mi objetivo es conectar con los usuarios con soluciones accesibles y centradas e
 
 - 👀 I’m interested in conectar con las personas, dejar mi huella. 
 - 🌱 I’m currently learning librerias y frameworks
-- 📫 Me puedes contactar en : https://www.linkedin.com/in/ptorresa/ 
+- 📫 Me puedes contactar en : https://www.linkedin.com/in/ptorresa/
+- 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,nodejs,jest,github,firebase)] 
 
 ## Más sobre mi:
 ```
