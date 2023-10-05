@@ -16,7 +16,7 @@ Mi objetivo es conectar con los usuarios con soluciones accesibles y centradas e
   "type": [ "Front-end developer", "occupational therapist", "chiro massage"],
   "tools": ["HTML5", "CSS", "JavaScript", "Jest"],
   "currentlyLearning": ["Node.js", "React"],
-  "preferences": [  "anime", "series", "disney", "halloween","coca-cola", "té de manzanilla", "bosque", "lluvia", "impresión 3d"],
+  "preferences": [  "anime", "series", "disney","perros", "halloween", "bosque", "lluvia", "impresión 3d"],
 
 }
 ```
